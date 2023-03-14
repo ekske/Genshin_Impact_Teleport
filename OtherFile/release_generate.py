@@ -70,4 +70,3 @@ os.system("explorer %s" % releases_path)
 url = "https://github.com/Sam5440/Genshin_Impact_Teleport/releases/new"
 # 打开网页
 os.system("start %s" % url)
-skjss.ssoso
